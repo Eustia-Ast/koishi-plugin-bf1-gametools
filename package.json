@@ -9,6 +9,11 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/Eustia-Ast/koishi-plugin-bf1-gametools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eustia-Ast/koishi-plugin-bf1-gametools.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
